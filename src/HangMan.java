@@ -43,7 +43,7 @@ public class HangMan {
                     break;
                 }
             }
-
+// niečo
             if (guessed)
                 System.out.print(solution.charAt(i));
             else {
